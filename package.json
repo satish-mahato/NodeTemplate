@@ -1,0 +1,16 @@
+{
+  "name": "basenodejstemplate",
+  "version": "1.0.0",
+  "description": "this is base template for node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "author": "satish singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
